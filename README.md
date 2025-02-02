@@ -39,12 +39,12 @@ Our platform provides a *one-stop solution* for disaster response by:
 
 ## *Project Documentation*
 *Screenshots*
-https://github.com/Darsana0204/Disaster-relief-network/blob/master/Screenshot%201.png
-https://github.com/Darsana0204/Disaster-relief-network/blob/master/Screenshot%202.png
-https://github.com/Darsana0204/Disaster-relief-network/blob/master/Screenshot%203.png
+- https://github.com/Darsana0204/Disaster-relief-network/blob/master/Screenshot%201.png
+- https://github.com/Darsana0204/Disaster-relief-network/blob/master/Screenshot%202.png
+- https://github.com/Darsana0204/Disaster-relief-network/blob/master/Screenshot%203.png
 
 *Diagram*
-https://github.com/Darsana0204/Disaster-relief-network/blob/master/FLOWCHART.jpg
+- https://github.com/Darsana0204/Disaster-relief-network/blob/master/FLOWCHART.jpg
 
 ### *Team Contributions*  
 - *Darsana R.* – Lead development, UI design, and game mechanics implementation.  
