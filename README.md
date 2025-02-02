@@ -5,9 +5,9 @@
 ### *Team Name: Wheee!*
 
 ### *Team Members*  
-- *Team Lead*: Darsana R. - CUCEK 
-- *Member 1*:  Adhithya V. - CUCEK
-- *Member 2*: Anjana S. Nair - CUCEK
+- Team Lead: Darsana R. - CUCEK 
+- Member 1:  Adhithya V. - CUCEK
+- Member 2: Anjana S. Nair - CUCEK
 
 ### *Project Description*  
 The *Disaster Relief Network* is a web-based platform designed to provide urgent support and aid to communities affected by disasters. It connects donors, volunteers, and those in need, enabling efficient disaster response and recovery efforts.  
@@ -53,7 +53,7 @@ Our platform provides a *one-stop solution* for disaster response by:
 
 
 ## *Live Demo*  
-🌍 *Check out the live website here:* [*Disaster Relief Network](#) *(Insert live link here)
+🌍 Check out the live website here: [*Disaster Relief Network](#) *(https://darsana0204.github.io/Disaster-relief-network/)
 
 
 ## *Future Enhancements*  
