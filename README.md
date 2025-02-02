@@ -53,7 +53,7 @@ Our platform provides a *one-stop solution* for disaster response by:
 
 
 ## *Live Demo*  
-🌍 Check out the live website here: [*Disaster Relief Network](#) *(https://darsana0204.github.io/Disaster-relief-network/)
+🌍 Check out the live website here: [**Disaster Relief Network**](https://darsana0204.github.io/Disaster-relief-network/)
 
 
 ## *Future Enhancements*  
